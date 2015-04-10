@@ -20,7 +20,7 @@ Installation Options:
 
 Usage Steps:
 ------------
-* Run `./code/download_data_all.m` or `./code/download_data_all.py` to download the raw CMT *k*-space data files in MATLAB .mat V5 format to the `../data_input/` folder.
+* Run `./code/download_data_all.py` to download the raw CMT *k*-space data files in MATLAB .mat V5 format to the `../data_input/` folder. Downloaded files come packaged in .zip files that are automatically extracted. MD5 checksums are verified for all downloaded files.
 
 * Run `./code/CMT_Recon.py` to generate 32 reconstructions (about 1 GB each). Output data files are written to the `./data_output/` folder.
 

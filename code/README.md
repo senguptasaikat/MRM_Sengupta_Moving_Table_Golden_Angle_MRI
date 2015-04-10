@@ -33,10 +33,3 @@ see also:
 
 ### Python download and verifcation scripts
     ./code/download_data_all.py
-    ./code/download_data_verify_all.py
-
-### MATLAB download and verifcation scripts
-    ./code/download_data.m
-    ./code/download_data_verify.m
-    ./code/download_data_all.m
-    ./code/download_data_verify_all.m
