@@ -6,15 +6,9 @@ This folder holds data volumes output using the reconstruction code ( CMT_Recon.
 see also:
 ---------
 
-### Index of files to download
+### Index of files to download ( **DO NOT EDIT** )
     ./code/download_data_index.csv
 
 ### Python download and verifcation scripts
     ./code/download_data_all.py
-    ./code/download_data_verify_all.py
 
-### MATLAB download and verifcation scripts
-    ./code/download_data.m
-    ./code/download_data_verify.m
-    ./code/download_data_all.m
-    ./code/download_data_verify_all.m

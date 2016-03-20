@@ -3,11 +3,15 @@ MRM Sengupta CMT Golden Angle
 
 CMT Golden Angle is an algorithm for reconstructing
 Golden and Linear angle, radial, continuously moving
-table MRI scan data. Code to download CMT MRI raw data 
-from online storage, reconstruct image volumes and reproduce 
+table MRI scan data. Code to download CMT MRI raw data
+from online storage, reconstruct image volumes and reproduce
 figures presented in the journal Magnetic Resonance in Medicine
-publication, *Continuously Moving Table MRI with Golden Angle 
+publication, *Continuously Moving Table MRI with Golden Angle
 Radial Sampling*, is included.  
+
+KNOWN ISSUES
+------------
+* **2016-03-18** : Data files moved from shutdown cloud storage service to be available as binaries associated with the github.com v1.0 release of this repository; updated download Python script and download CSV index file; removed MATLAB download files that do not work with zipped data files; updated download instructions; removed google analytics beacon on top level README.md file. Users should update to the latest version of the code repository to run the updated data download script.
 
 SETUP
 -----
@@ -15,7 +19,7 @@ SETUP
 
 LICENSE
 -------
-* This work is available under the [MIT License](http://opensource.org/licenses/MIT). 
+* This work is available under the [MIT License](http://opensource.org/licenses/MIT).
 * See [LICENSE](./LICENSE) for more details.
 
 CONTRIBUTORS
@@ -24,15 +28,6 @@ CONTRIBUTORS
 
 SEE ALSO
 --------
+* Zenodo.org DOI for replication code [![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.16745.svg)](http://dx.doi.org/10.5281/zenodo.16745)
+* Zenodo.org DOI for replication data [![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.16747.svg)](http://dx.doi.org/10.5281/zenodo.16747)
 * [https://github.com/welcheb/Reproducible_Research](https://github.com/welcheb/Reproducible_Research)
-
-KNOWN ISSUES
-------------
-* None reported.  
-
------------------------------------------------
-[![Analytics](https://ga-beacon.appspot.com/UA-54485519-2/MRM_Sengupta_CMT_Golden_Angle/README.md)](https://github.com/senguptasaikat/MRM_Sengupta_Moving_Table_Golden_Angle_MRI)
-
-
-
-
